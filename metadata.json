@@ -1,0 +1,6 @@
+{
+  "name": "ThaiSar Unit 4 · ဈေးဝယ်ခြင်း",
+  "description": "Thai listening and speaking Shopping Unit 4 for Myanmar learners",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

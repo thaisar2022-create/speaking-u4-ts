@@ -1,0 +1,19 @@
+{
+  "name": "ThaiSar Unit 4 · ဈေးဝယ်ခြင်း",
+  "short_name": "ThaiSar U4",
+  "description": "Thai listening and speaking Shopping Unit 4 for Myanmar learners",
+  "lang": "my",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#4d1060",
+  "background_color": "#f8f3fa",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
